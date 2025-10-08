@@ -64,7 +64,7 @@ margin-left:34px;
 .Photography{
     color:black;
     font-size:20px;
-    margin-top:-38px;
+    margin-top:-32px;
     margin-left:255px;
 }
 .paint{
@@ -76,79 +76,354 @@ cursor: underline;
 .Sculptures{
     color:black;
     font-size:20px;
-    margin-top:-38px;
+    margin-top:-31px;
     margin-left:425px;
 }
 
 .Drawings{
       color:black;
     font-size:20px;
-    margin-top:-38px;
+    margin-top:-33px;
     margin-left:575px;
 
 }  
 .Print{
     color:black;
     font-size:20px;
-    margin-top:-38px;
+    margin-top:-31px;
     margin-left:705px;
 }
 .Inspirtion{
       color:black;
     font-size:20px;
-    margin-top:-38px;
+    margin-top:-32px;
     margin-left:795px;
 }
 .Art{
       color:black;
     font-size:20px;
-    margin-top:-38px;
+    margin-top:-31px;
     margin-left:945px;
 }
 
 .Trade{
   color:black;
     font-size:20px;
-    margin-top:-38px;
+    margin-top:-31px;
     margin-left:1125px;
 }
 .Deals{
       color:black;
     font-size:20px;
-    margin-top:-38px;
+    margin-top:-31px;
     margin-left:1255px;
 }
 .images{
-    margin-top:200px;
-    margin-left:120px;
-    height:231px;
-    width:956px;
-    carousel-control-color:             white;
-carousel-control-width:             15%;
-carousel-control-opacity:           .5;
-carousel-control-hover-opacity:     .9;
-carousel-control-transition:        opacity .15s ease;
-carousel-control-icon-filter :       null;
-
-carousel-indicator-width:           30px;
-carousel-indicator-height:          3px;
-carousel-indicator-hit-area-height: 10px;
-carousel-indicator-spacer:          3px;
-carousel-indicator-opacity:         .5;
-carousel-indicator-active-bg:       white;
-carousel-indicator-active-opacity:  1;
-carousel-indicator-transition:      opacity .6s ease;
-
-carousel-caption-width:             70%;
-carousel-caption-color:             white;
-carousel-caption-padding-y:         1.25rem;
-carousel-caption-spacer:            1.25rem;
-
-carousel-control-icon-width:        2rem;
-
-carousel-control-prev-icon-bg:      url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$carousel-control-color}'><path d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0'/></svg>");
-carousel-control-next-icon-bg:      url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$carousel-control-color}'><path d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708'/></svg>");
-
-carousel-transition-duration:       .6s;
-carousel-transition:                transform carousel-transition-duration ease-in-out; / Define transform transition first if using multiple transitions (e.g., `transform 2s ease, opacity .5s ease-out`)
+    margin-top:75px;
+    align-items: center;
+    width:1596px;
+    height:-1px;
 }
+.btn1{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+   
+       margin-left:23px;
+}
+.btn2{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+   margin-left:23px;
+    
+}
+.btn3{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+   
+       margin-left:23px;
+}
+.btn4{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+      margin-left:23px;
+    
+}
+.btn5{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+      margin-left:23px;
+    
+}
+.btn6{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+   
+       margin-left:23px;
+}
+.btn7{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+      margin-left:23px;
+    
+}
+.btn8{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+      margin-left:23px;
+    
+}
+.btn9{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+      margin-left:23px;
+    
+}
+.joy{
+    color:black;
+    margin-left: 320px;
+}
+.monalisa{
+width:199;
+height:203px;
+margin-left:90px;
+}
+.img2{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.couple{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.smth{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.p1{
+    color:black;
+    font-size:20px;
+    margin-left:90px;
+    margin-top:-54px;
+}
+.p11{
+    color:black;
+}
+.p2{
+    color:black;
+    font-size:20px;
+    margin-left:400px;
+    margin-top:-54px;
+}
+.p3{
+    color:black;
+    font-size:20px;
+    margin-left:680px;
+    margin-top:-54px;
+}
+
+.p4{
+ color:black;
+    font-size:20px;
+    margin-left:1000px;
+    margin-top:-54px;
+}
+.shop{
+    color:black;
+    margin-left:180px;
+}
+.btna{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+      margin-left:523px;
+    
+    
+}
+.btnb{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+      margin-left:43px;
+    margin-bottom:-100px;
+    margin-top:-80px;
+}
+.btnc{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+  margin-left:43px;
+}
+.btnd{
+    color:black;
+    background-color: white;
+    border-color: black;
+    border-radius: 3px;
+    margin-left:43px;
+}
+.other{
+    background-color: rgb(215, 215, 215);
+}
+.que{
+    color:black;
+     margin-left:500px;
+}
+.ans{
+    color:black;
+    margin-left:350px;
+}
+.answer{
+    color:black;
+
+}
+.pic{
+    height:95px;
+    width:90px;
+   margin-top:-35px;
+}
+.pp{
+font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left:107px;
+    margin-top:-65px;
+    font-size:21px;
+}
+
+.links{
+    font-size:30px;
+    color:black;
+}
+.l1{
+    color:black;
+margin-left:420px;
+}
+.l2{
+    color:black;
+margin-left:60px;
+}
+.l3{
+    color:black;
+margin-left:60px;
+}
+.IMG1{
+width:199;
+height:203px;
+margin-left:90px;
+}
+.IMG3{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.IMG2{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.IMG4{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.price1{
+    cursor:pointer;
+    margin-top: 10px;
+    color:black;
+    margin-left:90px;
+}
+.price2{
+    cursor:pointer;
+    margin-top:-60px;
+    color:black;
+    margin-left:380px;
+}
+.price3{
+    cursor:pointer;
+    margin-top:-70px;
+    color:black;
+    margin-left:670px;
+}
+.price4{
+    cursor:pointer;
+    margin-top:-70px;
+    color:black;
+    margin-left:963px;
+}
+.shopp{
+    background-color:rgb(193, 187, 187);
+    color:black;
+    width:309px;
+    height:64px;
+    margin-left:549px;
+    margin-top:96px;
+    border-radius:5px;
+}
+.HEADING{
+    COLOR:BLACK;
+}
+.lnk{
+    text-decoration: none;
+}
+.one{
+width:199;
+height:203px;
+margin-left:90px;
+}
+.two{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.three{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.four{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.a1ST{
+width:199;
+height:203px;
+margin-left:90px;
+}
+.b2ND{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.c3RD{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+.d4TH{
+width:199px;
+height:203px;
+margin-left:90px;
+}
+
